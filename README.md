@@ -1,2 +1,3 @@
-# java-chat
-Chat client and server written for Networking class (CS 332)
+# network-caesar-cipher
+Chat client and caesar cipher server written for Networking class (CS 332)
+
